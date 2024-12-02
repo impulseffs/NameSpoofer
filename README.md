@@ -1,3 +1,5 @@
+![download](https://github.com/user-attachments/assets/14528967-951d-4686-b320-3b3893999552)
+
 # NameSpoofer
 
 A World of Warcraft (WotLK 3.5.5) addon that allows you to locally change your character's displayed name.

@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Name Spoofer
+## Notes: Allows you to spoof your character name locally
+## Author: impulseffs
+## Version: 1.0
+## SavedVariables: NameSpooferDB
+
+NameSpoofer.lua

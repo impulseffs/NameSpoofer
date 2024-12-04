@@ -1,6 +1,8 @@
 ![download](https://github.com/user-attachments/assets/14528967-951d-4686-b320-3b3893999552)
 ![image](https://github.com/user-attachments/assets/49737fe5-9ec0-4d91-8aa7-8e67b7b77b3b)
 ![dasdsad](https://github.com/user-attachments/assets/05776287-7152-4630-9f34-58ab396085e9)
+![ПРОБА](https://github.com/user-attachments/assets/c762a95a-8d98-480d-875b-90fa9dcf0ec1)
+
 
 
 

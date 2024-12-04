@@ -1,10 +1,4 @@
 ![download](https://github.com/user-attachments/assets/14528967-951d-4686-b320-3b3893999552)
-![image](https://github.com/user-attachments/assets/49737fe5-9ec0-4d91-8aa7-8e67b7b77b3b)
-![ПРОБА](https://github.com/user-attachments/assets/c762a95a-8d98-480d-875b-90fa9dcf0ec1)
-
-
-
-
 
 # NameSpoofer
 
